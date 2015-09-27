@@ -1,5 +1,5 @@
 # getting-and-cleaning-data
-run_analysis.r":
+Description of run_analysis.r":
 
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement. 
